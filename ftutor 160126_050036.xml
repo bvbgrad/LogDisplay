@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036606</millis>
+  <sequence>0</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>INFO</level>
+  <class>com.bvb4ever.ftutor.FtMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Log file initiated</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036622</millis>
+  <sequence>1</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtMain</class>
+  <method>parseArgs</method>
+  <thread>1</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036622</millis>
+  <sequence>2</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>INFO</level>
+  <class>com.bvb4ever.ftutor.FtMain</class>
+  <method>parseArgs</method>
+  <thread>1</thread>
+  <message>No arguments passed to the program.</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036622</millis>
+  <sequence>3</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>INFO</level>
+  <class>com.bvb4ever.ftutor.FtMain</class>
+  <method>parseArgs</method>
+  <thread>1</thread>
+  <message></message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036669</millis>
+  <sequence>4</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtInit</class>
+  <method>FtInit</method>
+  <thread>1</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036669</millis>
+  <sequence>5</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtInit</class>
+  <method>loadConfig</method>
+  <thread>1</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036669</millis>
+  <sequence>6</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>INFO</level>
+  <class>com.bvb4ever.ftutor.FtInit</class>
+  <method>loadConfig</method>
+  <thread>1</thread>
+  <message>Load Config file: ftConfigFile.cfg</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036684</millis>
+  <sequence>7</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>INFO</level>
+  <class>com.bvb4ever.ftutor.FtInit</class>
+  <method>loadConfig</method>
+  <thread>1</thread>
+  <message>Config file: 'ftConfigFile.cfg' Version: 'F-Tutor v4-4-4' loaded.</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036684</millis>
+  <sequence>8</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtInit</class>
+  <method>loadConfig</method>
+  <thread>1</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036684</millis>
+  <sequence>9</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtInit</class>
+  <method>FtInit</method>
+  <thread>1</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036684</millis>
+  <sequence>10</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtMain</class>
+  <method>parseArgs</method>
+  <thread>1</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036684</millis>
+  <sequence>11</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>SEVERE</level>
+  <class>com.bvb4ever.ftutor.FtMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>check: log SEVERE</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036684</millis>
+  <sequence>12</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>WARNING</level>
+  <class>com.bvb4ever.ftutor.FtMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>check: log WARNING</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036700</millis>
+  <sequence>13</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>INFO</level>
+  <class>com.bvb4ever.ftutor.FtMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>check: log INFO</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036700</millis>
+  <sequence>14</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>CONFIG</level>
+  <class>com.bvb4ever.ftutor.FtMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>check: log CONFIG</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036700</millis>
+  <sequence>15</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINE</level>
+  <class>com.bvb4ever.ftutor.FtMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>check: log FINE</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036700</millis>
+  <sequence>16</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>check: log FINER</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036700</millis>
+  <sequence>17</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINEST</level>
+  <class>com.bvb4ever.ftutor.FtMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>check: log FINEST</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:36</date>
+  <millis>1453806036840</millis>
+  <sequence>18</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037028</millis>
+  <sequence>19</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtTree</class>
+  <method>FtTree</method>
+  <thread>14</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037028</millis>
+  <sequence>20</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINE</level>
+  <class>com.bvb4ever.ftutor.FtTree</class>
+  <method>&lt;init&gt;</method>
+  <thread>14</thread>
+  <message>good image: jar:file:/F:/FT%20data/ftutor%20v4-4-4.jar!/res/Help%20book%203d.png</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037059</millis>
+  <sequence>21</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINE</level>
+  <class>com.bvb4ever.ftutor.FtTree</class>
+  <method>&lt;init&gt;</method>
+  <thread>14</thread>
+  <message>good image: jar:file:/F:/FT%20data/ftutor%20v4-4-4.jar!/res/find.png</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037059</millis>
+  <sequence>22</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtTree</class>
+  <method>FtTree</method>
+  <thread>14</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037059</millis>
+  <sequence>23</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtUI</class>
+  <method>initUI</method>
+  <thread>14</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037059</millis>
+  <sequence>24</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtUI</class>
+  <method>addMenu</method>
+  <thread>14</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037106</millis>
+  <sequence>25</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtUI</class>
+  <method>addMenu</method>
+  <thread>14</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037168</millis>
+  <sequence>26</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtTree</class>
+  <method>buildTree</method>
+  <thread>14</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037168</millis>
+  <sequence>27</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtUI</class>
+  <method>setLblLibraryFolder</method>
+  <thread>14</thread>
+  <message>ENTRY J:\FT data</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037246</millis>
+  <sequence>28</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtTree</class>
+  <method>getPopUpMenu</method>
+  <thread>14</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037262</millis>
+  <sequence>29</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtTree</class>
+  <method>getPopUpMenu</method>
+  <thread>14</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037277</millis>
+  <sequence>30</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtTree</class>
+  <method>buildTree</method>
+  <thread>14</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037277</millis>
+  <sequence>31</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtUI</class>
+  <method>arrangeComponents</method>
+  <thread>14</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037277</millis>
+  <sequence>32</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtUI</class>
+  <method>arrangeComponents</method>
+  <thread>14</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037293</millis>
+  <sequence>33</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>INFO</level>
+  <class>com.bvb4ever.ftutor.FtUI</class>
+  <method>initUI</method>
+  <thread>14</thread>
+  <message>good image: jar:file:/F:/FT%20data/ftutor%20v4-4-4.jar!/res/users32.png</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037464</millis>
+  <sequence>34</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtTree</class>
+  <method>setStatus</method>
+  <thread>14</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037464</millis>
+  <sequence>35</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtTree</class>
+  <method>setStatus</method>
+  <thread>14</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:37</date>
+  <millis>1453806037464</millis>
+  <sequence>36</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtUI</class>
+  <method>initUI</method>
+  <thread>14</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:47</date>
+  <millis>1453806047544</millis>
+  <sequence>37</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtUI</class>
+  <method>mouseReleased</method>
+  <thread>14</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:47</date>
+  <millis>1453806047544</millis>
+  <sequence>38</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>CONFIG</level>
+  <class>com.bvb4ever.ftutor.FtUI</class>
+  <method>mouseReleased</method>
+  <thread>14</thread>
+  <message>Exit button selected</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:47</date>
+  <millis>1453806047544</millis>
+  <sequence>39</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtUI</class>
+  <method>exitUI</method>
+  <thread>14</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:47</date>
+  <millis>1453806047544</millis>
+  <sequence>40</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtInit</class>
+  <method>saveConfig</method>
+  <thread>14</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:47</date>
+  <millis>1453806047591</millis>
+  <sequence>41</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>INFO</level>
+  <class>com.bvb4ever.ftutor.FtInit</class>
+  <method>saveConfig</method>
+  <thread>14</thread>
+  <message>Config file: 'ftConfigFile.cfg' saved:</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:47</date>
+  <millis>1453806047591</millis>
+  <sequence>42</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtInit</class>
+  <method>printConfig</method>
+  <thread>14</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:47</date>
+  <millis>1453806047606</millis>
+  <sequence>43</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtInit</class>
+  <method>printConfig</method>
+  <thread>14</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:47</date>
+  <millis>1453806047606</millis>
+  <sequence>44</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtInit</class>
+  <method>saveConfig</method>
+  <thread>14</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:47</date>
+  <millis>1453806047606</millis>
+  <sequence>45</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>INFO</level>
+  <class>com.bvb4ever.ftutor.FtUI</class>
+  <method>exitUI</method>
+  <thread>14</thread>
+  <message>Exit point: cleanup complete</message>
+</record>
+<record>
+  <date>2016-01-26T05:00:47</date>
+  <millis>1453806047606</millis>
+  <sequence>46</sequence>
+  <logger>com.bvb4ever.ftutor</logger>
+  <level>FINER</level>
+  <class>com.bvb4ever.ftutor.FtUI</class>
+  <method>exitUI</method>
+  <thread>14</thread>
+  <message>RETURN</message>
+</record>
+</log>
